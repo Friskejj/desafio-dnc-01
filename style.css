@@ -1,0 +1,152 @@
+*{
+    font-family: 'Inter';
+    margin: 0px;   
+}
+#titulo-superior{
+ font-size: 67px;
+ line-height: 72px;
+ margin-left:200px;
+ margin-top: 100px;
+ font-weight: 250px;
+ text-align: left 0px;
+ width: 1440px;
+ padding-right: 0px;
+ 
+ 
+}
+#paragrafo-superior{
+    margin-left: 205px;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 25px;
+    
+}
+#menu-superior{
+    color: #fff;
+    background-image: url(imagens/menu-superior.svg);
+    width: 1900px;
+    height: 475px;
+    padding-left: 0px;
+  
+}
+#menu-informacional{
+    display:grid;
+    grid-auto-flow: column;
+    background-color: #F9F9F9;
+    width: 1900px;
+    height: 229px;
+
+}
+#empreendimentos{
+    font-size: 21px;
+    width: 354px;
+    height: 67px;
+    top: 54px;
+    left: -86px;
+    margin-left: 330px;
+    margin-top:90px;
+    
+}
+#anos{
+
+    margin-right: 50px;
+    font-size: 21px;
+    width: 354px;
+    height: 67px;
+    top: 54px;
+    left: -94px;
+    margin-left: 100px;
+    margin-top:90px;
+   
+}
+#projetos{
+    margin-right: 300px;
+    font-size: 21px;
+    width: 354px;
+    height: 67px;
+    top: 54px;
+    left: -94px;
+    margin-left: 100px;
+    margin-top:90px;
+   
+}
+#oito{
+ 
+    font-size: 45px;
+}
+#quarenta{
+   
+    font-size: 45px;
+}
+#doismil{
+ 
+    font-size: 45px;
+}   
+
+#imagem-central{
+   margin-left: 1140px;
+   margin-top: 98px;
+}
+
+#titulo-central{
+   font-size: 40px;
+   margin-top: -440px;
+   margin-left: 280px;
+}
+
+#paragrafo-central{
+    font-size: 23px;
+    margin-top: -35px;
+    margin-left: 280px;
+}
+
+#formulario{
+    padding-bottom: 100px;
+    margin-top: 300px;
+    background-color: #303030;
+    width: 1900px;
+   }
+#titulo-formulario{
+    color:white ;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 40px;
+    margin-left: -30px;
+}
+#nome1{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 670px;
+    margin-top: 80px;
+    Width:508px;
+    Height:72px;
+    border-radius: 15px;
+    padding-left: 23px;
+    font-size: 23px;
+    color: rgba(0, 0, 0, 0.3);
+}
+#email1{
+    font-family: 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, 0.3);
+    margin-left: 670px;
+    margin-top: 55px;
+    Width:508px;
+    Height:72px;
+    border-radius: 15px;
+    padding-left: 23px;
+    font-size: 23px;
+     
+}
+#botao{
+    box-shadow: 0px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    background-color: rgba(192, 114, 18, 1);
+    margin-left: 799px;
+    margin-top: 63px;
+    Width:270px;
+    Height:70px;
+    border-radius: 15px;
+    font-size: 27px;
+    border: 0px;  
+}
+
